@@ -1,6 +1,6 @@
 ---
 description: Define system architecture, data models, API contracts, and technology choices.
-mode: subagent
+mode: primary
 ---
 
 # Agent: Solution Architect

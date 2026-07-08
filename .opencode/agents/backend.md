@@ -1,6 +1,6 @@
 ---
 description: Implement REST API, business logic, data access, and tests.
-mode: subagent
+mode: primary
 ---
 
 # Agent: Backend Engineer

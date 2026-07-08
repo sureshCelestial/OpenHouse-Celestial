@@ -1,6 +1,6 @@
 ---
 description: Infrastructure, Docker, CI/CD, and environment management.
-mode: subagent
+mode: primary
 ---
 
 # Agent: DevOps Engineer

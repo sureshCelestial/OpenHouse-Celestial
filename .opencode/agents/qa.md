@@ -1,6 +1,6 @@
 ---
 description: Define test strategy, write automated tests, and verify acceptance criteria.
-mode: subagent
+mode: primary
 ---
 
 # Agent: QA Engineer

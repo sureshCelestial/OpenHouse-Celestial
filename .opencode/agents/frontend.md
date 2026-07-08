@@ -1,6 +1,6 @@
 ---
 description: Implement React UI, state management, API integration, and tests.
-mode: subagent
+mode: primary
 ---
 
 # Agent: Frontend Engineer
