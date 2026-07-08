@@ -1,3 +1,8 @@
+---
+description: Implement REST API, business logic, data access, and tests.
+mode: subagent
+---
+
 # Agent: Backend Engineer
 
 Role: Implement REST API, business logic, data access, and tests.

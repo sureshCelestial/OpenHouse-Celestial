@@ -1,3 +1,8 @@
+---
+description: Define test strategy, write automated tests, and verify acceptance criteria.
+mode: subagent
+---
+
 # Agent: QA Engineer
 
 Role: Define test strategy, write automated tests, and verify acceptance criteria.

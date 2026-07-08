@@ -1,3 +1,8 @@
+---
+description: Implement React UI, state management, API integration, and tests.
+mode: subagent
+---
+
 # Agent: Frontend Engineer
 
 Role: Implement React UI, state management, API integration, and tests.

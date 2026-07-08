@@ -1,3 +1,8 @@
+---
+description: Infrastructure, Docker, CI/CD, and environment management.
+mode: subagent
+---
+
 # Agent: DevOps Engineer
 
 Role: Infrastructure, Docker, CI/CD, and environment management.
